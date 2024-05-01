@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+}
+
+.wrapper {
+    height: 100vh;
+    width: 100vw;
+}
+
+.container-left {
+    display: inline-block;
+    width: 70%;
+
+}
+
+.container-right {
+    display: inline-block;
+    width: 25%;
+}
+
+a {
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    font-weight: 400;
+    color: #17233d;
+    width: 83px;
+    height: 21px;
+    margin: 32px;
+    cursor: pointer;
+}
+
+header {
+    margin: 42px 47px;
+}
+
+button {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    width: 124px;
+    height: 51px;
+    background: #6FBF44;
+    color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.7;
+}
+
+button:active {
+    opacity: 0.4;
+}
+
+h1 {
+    font-size: 62px;
+    line-height: 82px;
+    font-weight: 700;
+    color: #161A49;
+    width: 582px;
+    height: 164px;
+    margin: 342px 57px 47px 0px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 33px;
+    font-weight: 400;
+    color: #4B505A;
+    width: 493px;
+    height: 99px;
+    margin: 47px 89px 55px 0px;
+}
+
+img {
+    margin: 246px 0 102px 121px;
+}
+
+.link-2 {
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 500;
+    color: #6fbf44;
+    max-width: 55px 381px 114px 0px;
+}
+
+@media screen and (max-width: 450px) {
+    .container-left {
+        height: 0%;
+        display: block;
+        padding: 0;
+        margin: 0;
+    }
+
+    .container-right {
+        display: block;
+        height: auto;
+        width: 100%;
+        position: static;
+
+    }
+
+    img {
+        position: static;
+        margin: 0;
+        width: 312px;
+        height: 288px;
+
+    }
+
+    a {
+        display: none;
+    }
+
+    button {
+        margin: 17px 0 520px 146px;
+        width: 91px;
+        height: 31px;
+        font-size: 12px;
+        line-height: 18px;
+        font-weight: 500;
+    }
+
+    .link-2 {
+        font-size: 18px;
+        line-height: 27px;
+        font-weight: 500;
+        position: center;
+        display: flex;
+        width: 112px;
+        height: 27px;
+        position: center;
+    }
+
+    h1 {
+        width: 278px;
+        height: 60px;
+        font-size: 30px;
+        line-height: 30px;
+        margin-top: 160px;
+    }
+
+    p {
+        width: 304px;
+        height: 165px;
+        font-size: 18px;
+        line-height: 33px;
+
+    }
+}
