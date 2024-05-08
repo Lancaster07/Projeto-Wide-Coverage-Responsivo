@@ -1,5 +1,5 @@
 <h1>
-  <b>Projeto Wide Coverage Responsivo</b>
+  <b>:boom: Projeto Wide Coverage Responsivo :boom:</b>
 </h1>
 <br>
 <h2>Esse foi um projeto que aprendi a desenvolver no <a href="https://rodolfomori.com.br/devclub/">DevClub</a></h2>
