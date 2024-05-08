@@ -16,3 +16,4 @@
 <br>
 <img src="https://github.com/Lancaster07/Projeto-Wide-Coverage-Responsivo/blob/master/img/Captura%20de%20tela_8-5-2024_19403_127.0.0.1.jpeg?raw=true" alt="print-pc" />
 <br>
+<img src="https://github.com/Lancaster07/Projeto-Wide-Coverage-Responsivo/blob/master/img/Captura%20de%20tela_8-5-2024_194631_127.0.0.1.jpeg?raw=true" alt="print-smartfone" /> 
